@@ -1,6 +1,4 @@
-# hello-world
-This is my first repository
+# libraries-versions-checker
+This is a repository of an internal project made by STRV Design and Frontend Team.
 
-I am a young desinger currently working for STRV. I am on my new mission now.. helping developers with my incredible design skills.
-
-You should like me
+The goal of this project is to track up-to-date libraries used on projects in STRV. We start with the Frontend team, hopefully spread to other teams in future.
